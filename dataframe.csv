@@ -1,0 +1,20 @@
+book_name,sentence_count,unique_word_count,unique_word_density,unique_word_length,unique_words_per_sentence,word_count,word_length,words_per_sentence,fernandez_huerta_rating_inverted,region,writer,writer_color
+Cien Anos De Soledad,3894,15801,0.114665351,8.17,4.06,137801,4.741,35,43.3,Latin America,Gabriel Garcia Marquez,#778899
+Como Agua Para Chocolate,1904,7667,0.142533138,7.586,4.03,53791,4.493,28,36,Latin America,Laura Esquivel,
+Corazon Tan Blanco,2103,11983,0.117688077,7.858,5.7,101820,4.405,48,50.5,Spain,Javier Marias,
+Cronica De Una Muerte Anunciada,758,5288,0.178509942,7.222,6.98,29623,4.514,39,41,Latin America,Gabriel Garcia Marquez,#778899
+Don Quijote,6207,23156,0.061086826,7.801,3.73,379067,4.305,61,63.5,Spain,Miguel de Cervantes,
+El Alquimista,1419,5104,0.136961305,7.173,3.6,37266,4.542,26,40,Other,Paulo Coelho,
+El Amor En Los Tiempos De Colera,3564,14055,0.088844921,7.574,3.94,158197,4.061,44,46.4,Latin America,Gabriel Garcia Marquez,#778899
+El Entenado,1474,8012,0.154818264,8.089,5.44,51751,4.698,35,43,Latin America,Juan Jose Saer,
+El Juego Del Angel,5907,15308,0.098648004,7.755,2.59,155178,4.452,26,28,Spain,Carlos Ruiz Zafon,crimson
+El Principito,426,3044,0.23424394,6.772,7.15,12995,4.606,30,38.3,Other,Antoine de Saint-Exupery,
+El Prisionero Del Cielo,2035,10267,0.151813571,7.521,5.05,67629,4.453,33,41,Spain,Carlos Ruiz Zafon,crimson
+Harry Potter Y La Caliz De Fuego,5450,16197,0.080902075,7.882,2.97,200205,4.622,36,44.6,Other,J. K. Rowling,
+Harry Potter Y La Piedra Filosofal,3063,8675,0.111554041,7.428,2.83,77765,4.593,25,33.1,Other,J. K. Rowling,
+La Casa De Los Espiritus,5023,18106,0.107969182,7.989,3.6,167696,4.606,33,47.2,Latin America,Isabel Allende,
+La Casa En Mango Street,809,3742,0.20587588,6.511,4.63,18176,4.207,22,36.1,Latin America,Sandra Cisneros,
+La Sombra Del Viento,6470,17417,0.107765128,7.667,2.69,161620,4.49,24,50.7,Spain,Carlos Ruiz Zafon,crimson
+Rayuela,5482,21912,0.126813628,7.738,4,172789,4.525,31,51.3,Spain,Julio Cortazar,
+Short Stories In Spanish - Intermediate Graded Reader,1503,4673,0.157850291,6.983,3.11,29604,4.565,19,27.2,Spain,Olly Richards,
+Tsunami - C2 Graded Reader,1793,4612,0.144944844,7.502,2.57,31819,4.631,17,25.2,Latin America,Paco Ardit,
